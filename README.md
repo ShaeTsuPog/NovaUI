@@ -47,5 +47,5 @@ Many things currently look hacky as I'm still trying to work out exactly how I w
 <b>Credits</b>
 - Mojang for vanilla textures.
 - All the mod authors for their textures.
-- BloCambLimb for [Modern UI](https://www.curseforge.com/minecraft/mc-mods/modern-ui)
+- BloCamLimb for [Modern UI](https://www.curseforge.com/minecraft/mc-mods/modern-ui)
 - teqspace for [Darkmode](https://www.curseforge.com/minecraft/texture-packs/darkmode), where I borrowed lang files from to figure out how font coloring works.
