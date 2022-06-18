@@ -5,8 +5,8 @@ Inspired by my desperate search to find a dark mode resource pack and discoverin
 
 Many things currently look hacky as I'm still trying to work out exactly how I want things to look. Below you can see examples of GUI elements I'm mostly satisfied with.
 
-
-
+![alt text](https://github.com/ShaeTsuPog/NovaUI/blob/3d04cf2b2cf00f3f9a6d566f94f760bdd3d21f86/screenshots/javaw_35pEd0AVpe.png)
+![alt text](https://github.com/ShaeTsuPog/NovaUI/blob/3d04cf2b2cf00f3f9a6d566f94f760bdd3d21f86/screenshots/javaw_CbjJFrur7l.png)
 
 <b>Currently Supported</b>
 - Vanilla Minecraft (mostly)
