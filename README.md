@@ -7,8 +7,8 @@ Many things currently look hacky as I'm still trying to work out exactly how I w
 
 <b>NOTE: This resource pack is intended to be used with [Modern UI](https://www.curseforge.com/minecraft/mc-mods/modern-ui) for the font rendering and blur effect.</b>
 
-![alt text](https://github.com/ShaeTsuPog/NovaUI/blob/3d04cf2b2cf00f3f9a6d566f94f760bdd3d21f86/screenshots/javaw_35pEd0AVpe.png)
-![alt text](https://github.com/ShaeTsuPog/NovaUI/blob/3d04cf2b2cf00f3f9a6d566f94f760bdd3d21f86/screenshots/javaw_CbjJFrur7l.png)
+![image](https://i.imgur.com/e2lMutV.png)
+![image](https://user-images.githubusercontent.com/85393060/174419434-4f3c48a2-2428-4e45-93b0-193858b04aa1.png)
 
 <b>Currently Supported</b>
 - Vanilla Minecraft (mostly)
