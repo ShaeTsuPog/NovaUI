@@ -25,6 +25,7 @@ Many things currently look hacky as I'm still trying to work out exactly how I w
  - Decide how I want scrollbars to look (they're mostly vanilla for now)
 
 <b>Coming Soon<i>ish</i></b>
+- JEI
 - Pipez
 - Refined Storage
 - Mekanism
@@ -40,5 +41,10 @@ Many things currently look hacky as I'm still trying to work out exactly how I w
 - Powah! (when it has a full release for 1.18.2)
 
 <b>In the <i>distant</i> Future</b>
-- Higher resolution textures
+- Higher resolution textures.
 - Clean minimal icons to replace all the usual ones.
+
+<b>Credits</b>
+- Mojang for vanilla textures.
+- All the mod authors for their textures.
+- teqspace for [Darkmode](https://www.curseforge.com/minecraft/texture-packs/darkmode), where I borrowed lang files from to figure out how they work.
