@@ -11,6 +11,7 @@ Many things currently look hacky as I'm still trying to work out exactly how I w
 <b>NOTE: This resource pack is intended to be used with [Modern UI](https://www.curseforge.com/minecraft/mc-mods/modern-ui) for the font rendering and blur effect.</b>
 
 <b>Currently Supported</b>
+
 See latest release for a list of supported mods.
 
 <b>To Do</b>
