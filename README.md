@@ -10,41 +10,23 @@ Many things currently look hacky as I'm still trying to work out exactly how I w
 
 <b>NOTE: This resource pack is intended to be used with [Modern UI](https://www.curseforge.com/minecraft/mc-mods/modern-ui) for the font rendering and blur effect.</b>
 
-![image](https://i.imgur.com/LrNZipR.png) ![image](https://i.imgur.com/e2lMutV.png)
-![image](https://user-images.githubusercontent.com/85393060/174419434-4f3c48a2-2428-4e45-93b0-193858b04aa1.png)
-
 <b>Currently Supported</b>
-- Vanilla Minecraft (mostly)
-- Sophisticated Backpacks
-- Sophisticated Storage
-- Applied Energistics 2
-- Curios
-- Extreme Sound Muffler
-- Trash Slot
-- Cosmetic Armor Reworked
-- JEI
-- Pipez
-- Mekanism
-- XNet (partially)
-- LaserIO (needs some cleaning up)
+See latest release for a list of supported mods.
 
 <b>To Do</b>
  - Make various buttons more consistent
  - Decide how I want scrollbars to look (they're mostly vanilla for now)
 
-<b>Coming Soon<i>ish</i></b>
+<b>Coming Soon</b>
 - Refined Storage
-- RFTools
-
-<b>In the Future</b>
 - Industrial Foregoing
 - Thermal
 - Integrated Dynamics
 - Bigger Reactors
 - AE2 and RS add-ons
-- Powah! (when it has a full release for 1.18.2)
+- Powah! Rearchitectured
 
-<b>In the <i>distant</i> Future</b>
+<b>In the Future</b>
 - Higher resolution textures.
 - Clean minimal icons to replace all the usual ones.
 
@@ -53,3 +35,5 @@ Many things currently look hacky as I'm still trying to work out exactly how I w
 - All the mod authors for their textures.
 - BloCamLimb for [Modern UI](https://www.curseforge.com/minecraft/mc-mods/modern-ui)
 - teqspace for [Darkmode](https://www.curseforge.com/minecraft/texture-packs/darkmode), where I borrowed lang files from to figure out how font coloring works.
+
+![image](https://i.imgur.com/LrNZipR.png)![javaw_8yQeBUb6mA](https://user-images.githubusercontent.com/85393060/174474875-c96dac38-e58e-47e2-a39f-8aebcb85cd83.png)![javaw_nCi8PajoQu](https://user-images.githubusercontent.com/85393060/174474879-8e19fcb3-fc81-4b71-a751-f06467c1033c.png)![javaw_ZwywQ9eHL4](https://user-images.githubusercontent.com/85393060/174474885-ee73145e-08db-48d3-af0c-7d788c3327ea.png)
