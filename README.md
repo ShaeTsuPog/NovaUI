@@ -22,17 +22,18 @@ Many things currently look hacky as I'm still trying to work out exactly how I w
 - Extreme Sound Muffler
 - Trash Slot
 - Cosmetic Armor Reworked
+- JEI
+- Pipez
+- Mekanism
+- XNet (partially)
+- LaserIO (needs some cleaning up)
 
 <b>To Do</b>
  - Make various buttons more consistent
  - Decide how I want scrollbars to look (they're mostly vanilla for now)
 
 <b>Coming Soon<i>ish</i></b>
-- JEI
-- Pipez
 - Refined Storage
-- Mekanism
-- Xnet
 - RFTools
 
 <b>In the Future</b>
