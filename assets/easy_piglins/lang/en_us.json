@@ -1,0 +1,7 @@
+{
+  "block.easy_piglins.barterer": "§fBarterer",
+  "itemGroup.easy_piglins": "§fEasy Piglins",
+  "gui.easy_piglins.input_items": "§fInput Items",
+  "gui.easy_piglins.output_items": "§fOutput Items",
+  "message.easy_piglins.cant_pick_up": "Can't pick up aggressive or busy piglins"
+}
