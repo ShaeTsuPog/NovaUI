@@ -270,7 +270,7 @@
   "gui.ae2.NoCraftingJobs": "§fNo Crafting Job Active",
   "gui.ae2.NoPermissions": "§fNo Permissions Selected",
   "gui.ae2.NoSecondOutput": "§fNo Secondary Output",
-  "gui.ae2.Nothing": "§fNothing",
+  "gui.ae2.Nothing": "§fNothing§f",
   "gui.ae2.NumberGreaterThanMaxValue": "§fPlease enter a number less than or equal to %s",
   "gui.ae2.NumberLessThanMinValue": "§fPlease enter a number greater than or equal to %s",
   "gui.ae2.OCTunnel": "§fOpenComputers",

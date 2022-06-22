@@ -6,5 +6,5 @@
   "enderstorage.command.no_freq": "Invalid freq",
   "block.enderstorage.ender_tank": "§fEnder Tank",
   "enderstorage.command.no_arguments": "Invalid number of arguments",
-  "enderstorage.serverop": "Operator"
+  "enderstorage.serverop": "§fOperator"
 }
