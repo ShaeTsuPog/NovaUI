@@ -84,6 +84,6 @@
   "item.thermal_extra.cactus_soup": "Cactus Soup",
   "item.thermal_extra.cactus_juice_bucket": "Cactus Juice Bucket",
   "fluid.thermal_extra.cactus_juice": "Cactus Juice",
-  "itemGroup.thermal_extra_resources": "Thermal Extra: Resources",
-  "itemGroup.thermal_extra_augments": "Thermal Extra: Augments"
+  "itemGroup.thermal_extra_resources": "§fThermal Extra: Resources",
+  "itemGroup.thermal_extra_augments": "§fThermal Extra: Augments"
 }

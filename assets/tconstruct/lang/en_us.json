@@ -813,8 +813,8 @@
   "block.tconstruct.crafting_station": "Crafting Station",
 
   "block.tconstruct.tinker_station": "§fTinker Station",
-  "block.tconstruct.tinkers_anvil": "Tinker's Anvil",
-  "block.tconstruct.scorched_anvil": "Tinker's Anvil",
+  "block.tconstruct.tinkers_anvil": "§fTinker's Anvil",
+  "block.tconstruct.scorched_anvil": "§fTinker's Anvil",
 
   "block.tconstruct.part_builder": "Part Builder",
 
@@ -2377,12 +2377,12 @@
 
   "_comment": "GUIs",
 
-  "itemGroup.tconstruct.general": "Tinkers' General Items",
-  "itemGroup.tconstruct.tools": "Tinkers' Tools",
-  "itemGroup.tconstruct.tool_parts": "Tinkers' Toolparts",
-  "itemGroup.tconstruct.smeltery": "Tinkers' Smeltery",
-  "itemGroup.tconstruct.world": "Tinkers' World",
-  "itemGroup.tconstruct.gadgets": "Tinkers' Gadgets",
+  "itemGroup.tconstruct.general": "§fTinkers' General Items",
+  "itemGroup.tconstruct.tools": "§fTinkers' Tools",
+  "itemGroup.tconstruct.tool_parts": "§fTinkers' Toolparts",
+  "itemGroup.tconstruct.smeltery": "§fTinkers' Smeltery",
+  "itemGroup.tconstruct.world": "§fTinkers' World",
+  "itemGroup.tconstruct.gadgets": "§fTinkers' Gadgets",
 
   "gui.tconstruct.crafting_station": "§fCrafting Station",
   "gui.tconstruct.crafting_station.uncraftable": "This item is not currently craftable by the player",

@@ -4,7 +4,7 @@
     "_comment": "msg entries can span multiple lines, use <br> to indicate a line break.",
 
     "_comment": "------------------------------------------------------ MISC ------------------------------------------------------!",
-    "itemGroup.enderchests": "EnderChests",
+    "itemGroup.enderchests": "§fEnderChests",
 
     "_comment": "----------------------------------------------- ERROR/INFO/NOTICE ------------------------------------------------!",
     "error.enderchests.bag.nolink1": "Can not link bag, you do not own this chest",

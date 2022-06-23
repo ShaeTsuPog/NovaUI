@@ -349,7 +349,7 @@
     "constants.mekanism.forge": "MinecraftForge",
     "constants.mekanism.ic2": "IndustrialCraft",
     "constants.mekanism.log_format": "[%1$s] %2$s",
-    "constants.mekanism.mod_name": "Mekanism",
+    "constants.mekanism.mod_name": "§fMekanism",
     "container.mekanism.advanced_chemical_tank": "§fAdvanced Chemical Tank",
     "container.mekanism.advanced_combining_factory": "§fAdvanced Combining Factory",
     "container.mekanism.advanced_compressing_factory": "§fAdvanced Compressing Factory",

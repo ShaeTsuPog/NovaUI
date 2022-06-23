@@ -231,7 +231,7 @@
     "key.projecte.mode": "Change Mode",
     "misc.projecte.blacklist": "Blacklist",
     "misc.projecte.high_alchemist_joined": "High alchemist %s has joined the server",
-    "misc.projecte.mod_name": "ProjectE",
+    "misc.projecte.mod_name": "§fProjectE",
     "misc.projecte.mode_switch": "Set target to: %s",
     "misc.projecte.seconds": "%s seconds",
     "misc.projecte.seconds.every_tick": "%s seconds (every tick)",

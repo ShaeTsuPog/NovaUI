@@ -176,12 +176,12 @@
   "info.thermal.xp_crystal.use": "Use to transfer experience to the crystal.",
   "info.thermal.xp_crystal.use.sneak": "Use while sneaking to retrieve stored experience.",
 
-  "itemGroup.thermal.blocks": "Thermal Series: Blocks",
-  "itemGroup.thermal.devices": "Thermal Series: Machinery",
-  "itemGroup.thermal.foods": "Thermal Series: Crops and Foods",
-  "itemGroup.thermal.items": "Thermal Series: Items",
-  "itemGroup.thermal.resources": "Thermal Series: Resources",
-  "itemGroup.thermal.tools": "Thermal Series: Tools",
+  "itemGroup.thermal.blocks": "§fThermal Series: Blocks",
+  "itemGroup.thermal.devices": "§fThermal Series: Machinery",
+  "itemGroup.thermal.foods": "§fThermal Series: Crops and Foods",
+  "itemGroup.thermal.items": "§fThermal Series: Items",
+  "itemGroup.thermal.resources": "§fThermal Series: Resources",
+  "itemGroup.thermal.tools": "§fThermal Series: Tools",
 
   "item.thermal.redstone_servo": "Redstone Servo",
   "item.thermal.rf_coil": "Redstone Flux Coil",
@@ -420,7 +420,7 @@
   "info.thermal.augment.attr.RFMax": "§fRF Capacity",
   "info.thermal.augment.attr.RFXfer": "§fRF Transfer",
 
-  "info.thermal.augment.type.Area": "Area Effect",
+  "info.thermal.augment.type.Area": "§fArea Effect",
   "info.thermal.augment.type.Dynamo": "Dynamo",
   "info.thermal.augment.type.Fluid": "Fluid",
   "info.thermal.augment.type.Filter": "Filter",

@@ -30,7 +30,7 @@
     "item.ironfurnaces.item_linker": "Rainbow Linker",
 
     "_comment": "TAB",
-    "itemGroup.ironfurnaces": "Iron Furnaces",
+    "itemGroup.ironfurnaces": "§fIron Furnaces",
 
     "_comment": "Blocks",
     "block.ironfurnaces.iron_furnace": "Iron Furnace",
