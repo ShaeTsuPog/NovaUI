@@ -10,26 +10,7 @@ Many things currently look hacky as I'm still trying to work out exactly how I w
 
 <b>NOTE: This resource pack is intended to be used with [Modern UI](https://www.curseforge.com/minecraft/mc-mods/modern-ui) for the font rendering and blur effect.</b>
 
-<b>Currently Supported</b>
-
-See latest release for a list of supported mods.
-
-<b>To Do</b>
- - Make various buttons more consistent
- - Decide how I want scrollbars to look (they're mostly vanilla for now)
-
-<b>Coming Soon</b>
-- Refined Storage
-- Industrial Foregoing
-- Thermal
-- Integrated Dynamics
-- Bigger Reactors
-- AE2 and RS add-ons
-- Powah! Rearchitectured
-
-<b>In the Future</b>
-- Higher resolution textures.
-- Clean minimal icons to replace all the usual ones.
+See the Curseforge page for a list of supported mods.
 
 <b>Credits</b>
 - Mojang for vanilla textures.
