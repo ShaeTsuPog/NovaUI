@@ -1,6 +1,6 @@
 {
   "_comment": "itemGroup:",
-  "itemGroup.buildinggadgets": "Building Gadgets",
+  "itemGroup.buildinggadgets": "§fBuilding Gadgets",
   "_comment": "item:",
   "item.buildinggadgets.gadget_building": "Building Gadget",
   "item.buildinggadgets.gadget_copy_paste": "Copy-Paste Gadget",
@@ -18,8 +18,8 @@
   "block.buildinggadgets.construction_block_dense": "Dense Construction Block",
   "block.buildinggadgets.construction_block_powder": "Construction Block Powder",
   "block.buildinggadgets.effect_block": "(Unused)Effect Block",
-  "block.buildinggadgets.template_manager": "Template Manager",
-  "block.buildinggadgets.charging_station": "Charging Station",
+  "block.buildinggadgets.template_manager": "§fTemplate Manager",
+  "block.buildinggadgets.charging_station": "§fCharging Station",
   "_comment": "key:",
   "key.buildinggadgets.category": "Building Gadgets",
   "key.buildinggadgets.anchor": "Anchor",
