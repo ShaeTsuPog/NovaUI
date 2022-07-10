@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "rftoolscontrol:block/craftingstation",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "rftoolscontrol:block/craftingstation",
+      "x": -90
+    },
+    "facing=north": {
+      "model": "rftoolscontrol:block/craftingstation"
+    },
+    "facing=south": {
+      "model": "rftoolscontrol:block/craftingstation",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rftoolscontrol:block/craftingstation",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "rftoolscontrol:block/craftingstation",
+      "y": 90
+    }
+  }
+}

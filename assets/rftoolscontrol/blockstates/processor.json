@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "rftoolscontrol:block/processor",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "rftoolscontrol:block/processor",
+      "x": -90
+    },
+    "facing=north": {
+      "model": "rftoolscontrol:block/processor"
+    },
+    "facing=south": {
+      "model": "rftoolscontrol:block/processor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rftoolscontrol:block/processor",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "rftoolscontrol:block/processor",
+      "y": 90
+    }
+  }
+}

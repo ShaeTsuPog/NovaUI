@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "status=ok": {
+      "model": "rftoolsbuilder:block/supportblock_status0"
+    },
+    "status=warn": {
+      "model": "rftoolsbuilder:block/supportblock_status1"
+    },
+    "status=error": {
+      "model": "rftoolsbuilder:block/supportblock_status2"
+    }
+  }
+}
