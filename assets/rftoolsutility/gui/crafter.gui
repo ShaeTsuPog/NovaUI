@@ -47,12 +47,13 @@ window {
             channel('select')
             hint(10,7,126,84)
             bgthickness(-0)
-            bgfilled1(-3291453)
+            bgfilled1(-2021022)
         }
         slider {
             hint(137,7,10,84)
             scrollable('recipes')
             bgthickness(-0)
+            bgfilled1(-5265249)
         }
         button('apply','Apply') {
             channel('apply')
