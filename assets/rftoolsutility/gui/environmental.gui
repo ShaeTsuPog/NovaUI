@@ -47,7 +47,7 @@ window {
             hint(25,42,167,78)
             widgetlist('players') {
                 bgthickness(-1)
-                bgfilled1(-3291453)
+                bgfilled1(-7631989)
             }
             slider {
                 scrollable('players')
